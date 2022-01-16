@@ -1,4 +1,3 @@
 # documents
    
-   various hyperjump related documents:
-   ftm vault strats
+   various hyperjump related documents
